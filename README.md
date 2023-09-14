@@ -1,9 +1,8 @@
 [![GDSC-ADYPU](https://pbs.twimg.com/profile_banners/1570753275510788101/1663331971/1500x500)](https://gdsc.community.dev/ajeenkya-dy-patil-university-pune/)
 
-# Google Developers Student Club - Ajeenkya D Y Patil
+# Google Developers Student Club - AUM
 
-This is the official GitHub Organization of GDSC-ADYPU. \
-GDSCs are a university-based community group for students interested in Google developer technologies. Students from all UG or PG programs with an interest in growing as a developer are welcome. By joining a GDSC, students grow their knowledge in a p2p learning environment and build solutions.
+
 
 ## Connect with us!
 
